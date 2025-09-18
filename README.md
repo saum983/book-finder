@@ -39,3 +39,10 @@ Basically, it’s like a mini personal book explorer for Alex.
    npm run dev
 
 - Open http://localhost:5173 in the browser
+
+---
+
+##  Deployment
+
+- Live App: [https://c6wcsd-5173.csb.app/](https://c6wcsd-5173.csb.app/)
+- CodeSandbox Editor (view code): [https://codesandbox.io/p/github/saum983/book-finder](https://codesandbox.io/p/github/saum983/book-finder)
