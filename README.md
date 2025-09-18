@@ -26,7 +26,7 @@ Basically, it’s like a mini personal book explorer for Alex.
 
 ---
 
-## 🚀 How to run it locally
+##  How to run it locally
 
 - Clone the project
    git clone https://github.com/saum983/book-finder.git
